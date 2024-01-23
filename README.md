@@ -5,7 +5,7 @@ Branches:
 Backend- STS Files
 
 
-Frontend- Angular
+Master- Angular
 
 
 Testing- Testng
